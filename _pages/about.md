@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Junxi Yi"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,3 +16,8 @@ Warm welcome from the tiniest crabs in the world!
 
 ![](/images/crab.jpg)
 [Read more about "Cancer therapy"](https://blogs.illinois.edu/view/9359/387617733)
+
+News
+-------------------
+
+I'm happy to be selected as a Beckman Graduate Fellow 2026-2027.
