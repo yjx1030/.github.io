@@ -19,5 +19,5 @@ Warm welcome from the tiniest crabs in the world!
 
 News
 -------------------
-
-I'm happy to be selected as a Beckman Graduate Fellow 2026-2027.
+* **05/2026** — Selected as a **Mavis Future Faculty Fellow** for the 2026–2027 academic year.
+* **04/2026** — Selected as a **Beckman Institute Graduate Fellow** for the 2026–2027 academic year.
