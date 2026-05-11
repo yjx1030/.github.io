@@ -1,4 +1,3 @@
-```md
 ---
 layout: archive
 title: ""
@@ -9,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 ## Education
 
@@ -208,4 +208,6 @@ Department of Bioengineering, UIUC
 **Volunteer Instructor, "Zhuangmiao Program"**, Chongzuo, Guangxi, China
 
 * Delivered a two-week science and engineering curriculum for a rural primary-school cohort.
-```
+
+
+---
